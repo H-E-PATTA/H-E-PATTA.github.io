@@ -25,7 +25,7 @@
 .navbar ul li{
    list-style: none;
    display: inline-block;
-   margin: 0 20px;
+   margin: 20px;
    position: relative;
 }
 .navbar ul li a{
